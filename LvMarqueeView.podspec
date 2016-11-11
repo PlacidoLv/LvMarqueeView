@@ -15,7 +15,7 @@ s.homepage     = "https://github.com/PlacidoLv/LvMarqueeView"
 s.license      = "MIT"
 s.author       = { "PlacidoLv" => "327853338@qq.com" }
 s.platform     = :ios
-s.source       = { :git => "https://github.com/PlacidoLv/LvMarqueeView.git", :tag => "0.0.1",:commit => "4d552d92f9fab4bf427a4ff20d3ca9be57a1500f" }
+s.source       = { :git => "https://github.com/PlacidoLv/LvMarqueeView.git", :tag => "0.0.1",:commit => "cec10d1c7690e15e794a364cc93dce7f18be93f1" }
 s.source_files  = "LvMarqueeView/*"
 
 s.requires_arc = true
